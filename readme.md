@@ -5,6 +5,6 @@
 
 ## Requirements
 
-py```
+```bash
 pip install pyperclip Pillow
 ```
